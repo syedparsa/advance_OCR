@@ -20,9 +20,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Screenshots
 ![Image 1](https://github.com/syedparsa/advance_OCR/blob/main/Images/1.jpg)
-![Image 2](https://github.com/syedparsa/advance_OCR/blob/master/Images/2.jpg)
-![Image 3](https://github.com/syedparsa/advance_OCR/blob/master/Images/3.jpg)
-![Image 4](https://github.com/syedparsa/advance_OCR/blob/master/Images/4.jpg)
-![Video](https://github.com/syedparsa/advance_OCR/blob/master/Images/video.mp4)
+![Image 2](https://github.com/syedparsa/advance_OCR/blob/main/Images/2.jpg)
+![Image 3](https://github.com/syedparsa/advance_OCR/blob/main/Images/3.jpg)
+![Image 4](https://github.com/syedparsa/advance_OCR/blob/main/Images/4.jpg)
+![Video](https://github.com/syedparsa/advance_OCR/blob/main/Images/video.mp4)
 
 ### Thanks
