@@ -19,10 +19,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [Apache v2.0](https://choosealicense.com/licenses/apache-2.0/)
 
 ## Screenshots
-![Image 1](https://github.com/syedparsa/OCRwithTranlator/blob/master/Images/1.jpg?raw=true)
-![Image 2](https://github.com/syedparsa/OCRwithTranlator/blob/master/Images/2.jpg?raw=true)
-![Image 3](https://github.com/syedparsa/OCRwithTranlator/blob/master/Images/3.jpg?raw=true)
-![Image 4](https://github.com/syedparsa/OCRwithTranlator/blob/master/Images/4.jpg?raw=true)
-![Video](https://github.com/syedparsa/OCRwithTranlator/blob/master/Images/video.mp4?raw=true)
+![Image 1](https://github.com/syedparsa/advance_OCR/blob/master/Images/1.jpg?raw=true)
+![Image 2](https://github.com/syedparsa/advance_OCR/blob/master/Images/2.jpg?raw=true)
+![Image 3](https://github.com/syedparsa/advance_OCR/blob/master/Images/3.jpg?raw=true)
+![Image 4](https://github.com/syedparsa/advance_OCR/blob/master/Images/4.jpg?raw=true)
+![Video](https://github.com/syedparsa/advance_OCR/blob/master/Images/video.mp4?raw=true)
 
 ### Thanks
